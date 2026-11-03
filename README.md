@@ -1,3 +1,3 @@
-# GEMINI_CHAT_CLIENT
-GEMINI_CHAT_CLIENT
+# AI_CHAT_CLIENT
+AI_CHAT_CLIENT
 ![Screenshot](screenshot.jpg)
